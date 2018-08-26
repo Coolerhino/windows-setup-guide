@@ -21,9 +21,19 @@ Set-ExecutionPolicy Unrestricted -Scope CurrentUser
 ### Enable hidden folders, file extensions
 ### Create god mode folder
 ### Remove icons from desktop
-### Disable notifications
+### Disable notifications is a good option
 ### Move downloads folder to custom dir
 
 ## Disable telemetry
 
 ShutUp10?
+
+
+## Appearance
+
+https://www.rainmeter.net/
+
+https://www.deviantart.com/hiphopium/art/Enmon-760139205 is a good option
+
+https://www.reddit.com/r/Rainmeter/comments/7w0n70/nature_theme_rainmeter_by_me/
+- without bin and few days forecast under momento clock
