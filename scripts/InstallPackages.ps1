@@ -24,7 +24,7 @@ cinst wincdemu
 cinst telegram.install
 cinst miktex.install
 cinst texstudio
-cinst utorrent
+cinst qbittorrent
 cinst shotcut
 cinst rainmeter
 
