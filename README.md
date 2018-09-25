@@ -37,3 +37,13 @@ https://www.deviantart.com/hiphopium/art/Enmon-760139205 is a good option
 
 https://www.reddit.com/r/Rainmeter/comments/7w0n70/nature_theme_rainmeter_by_me/
 - without bin and few days forecast under momento clock
+
+### Tools setup
+
+## Visual Studio
+-github extension
+-resharper
+-power tools
+
+## Visual Studio Code
+
