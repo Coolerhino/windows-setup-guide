@@ -29,7 +29,7 @@ cinst shotcut
 cinst rainmeter
 
 #napi projekt manualnie
-#vs ultimate 17 manualnie
+#vs ultimate 19 manualnie
 #linqpad 5 na razie manualnie
 
 #choco install - cinst
