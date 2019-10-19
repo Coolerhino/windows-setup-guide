@@ -34,4 +34,5 @@ cinst fluent-terminal
 #linqpad 5 na razie manualnie
 
 #choco install - cinst
-#choco upgrade - cup
+#for updating
+#choco upgrade all -y / cup
