@@ -27,6 +27,7 @@ cinst texstudio
 cinst qbittorrent
 cinst shotcut
 cinst rainmeter
+cinst fluent-terminal
 
 #napi projekt manualnie
 #vs ultimate 19 manualnie
