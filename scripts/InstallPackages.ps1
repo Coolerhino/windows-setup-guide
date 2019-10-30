@@ -29,6 +29,7 @@ cinst shotcut
 cinst rainmeter
 cinst fluent-terminal
 cinst git-fork
+cinst microsoft-windows-terminal
 
 #napi projekt manualnie
 #vs ultimate 19 manualnie
