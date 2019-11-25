@@ -30,6 +30,7 @@ cinst rainmeter
 cinst fluent-terminal
 cinst git-fork
 cinst microsoft-windows-terminal
+cinst sql-server-management-studio
 
 #napi projekt manualnie
 #vs ultimate 19 manualnie
